@@ -1,0 +1,1 @@
+export PS1='\[\033]0;MINGW32:/c/wamp/www/snippets_ron/media_player\007\]\n\[\033[32m\]\u@\h \[\033[35m\]MINGW32 \[\033[33m\]\w\[\033[36m\] (master)\[\033[0m\]\n\[\033[36m\]rgps$: \[\033[0m\]'
